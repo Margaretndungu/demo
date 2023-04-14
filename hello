@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+/* The 'hello' program prints the message "Hello, world!" to the console. */
+
+/*
+ * main - The main function for the 'hello' program.
+ *
+ * This function prints the message "Hello, world!" to the console
+ * and returns 0 to indicate successful completion.
+ *
+ * Return: 0 to indicate successful completion.
+ */
+int main(void)
+{
+    printf("Hello, world!\n");
+    return 0;
+}
